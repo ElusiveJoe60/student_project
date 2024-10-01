@@ -1,0 +1,22 @@
+{
+  "name": "student_project",
+  "version": "1.0.0",
+  "description": "My student project",
+  "main": "index.js",
+  "scripts": {
+    "test": "git add ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyoto60/student_repository.git"
+  },
+  "keywords": [
+    "asd"
+  ],
+  "author": "Kyoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyoto60/student_repository/issues"
+  },
+  "homepage": "https://github.com/kyoto60/student_repository#readme"
+}
