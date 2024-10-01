@@ -1,0 +1,271 @@
+/* p {
+    color: orange;
+    width: 300px;
+}
+
+h1 {
+    color: rgb(0, 255, 0);
+}
+
+h2 {
+    color: aqua;
+    font-style: italic;
+}
+
+h3 {
+    color: #0400ff;
+} */
+
+.td_for_styles {
+    width: 400px;
+    height: 300px;
+}
+
+.h1_for_right {
+    text-align: right;
+}
+
+.h2_for_center {
+    width: 300px;
+    text-align: center;
+}
+
+.table_for_width {
+    width: 500px;
+}
+
+.th_for_left {
+    text-align: left;
+}
+
+.td_for_center {
+    text-align: center;
+}
+
+.p_for_width {
+    width: 300px;
+    text-align: right left;
+}
+
+.table_for_styles {
+    width: 500px;
+    height: 300px;
+}
+
+.th_for_normal {
+    font-weight: normal;
+}
+
+.td_for_bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+.h1_for_font {
+    font-size: 50px;
+    text-align: center;
+}
+
+.h2_for_font {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.p_for_font {
+    font-size: 30px;
+}
+
+.p_for_arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p_for_comic {
+    font-family: "Comic Sans MS";
+}
+
+.p_for_styles {
+    font-size: 30px;
+    width: 400px;
+    line-height: 1.5;
+}
+
+.p_for_font_styles_1 {
+    font: 13px/20px "Times New Roman";
+}
+
+.p_for_font_styles_2 {
+    width: 300px;
+    font: bold 40px Arial;
+    color: red;
+}
+
+.p_for_font_styles_3 {
+    font: bold italic 40px/60px Arial;
+    text-indent: 50px;
+}
+
+.p_for_decoration_1 {
+    text-decoration: underline;
+}
+
+.p_for_decoration_2 {
+    text-decoration: overline;
+    color: red;
+}
+
+.p_for_decoration_3 {
+    text-decoration: line-through;
+    color: greenyellow;
+}
+
+.a_in_p {
+    text-decoration: none;
+    color: red;
+}
+
+.h1_for_practise {
+    width: 500px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+.h2_for_practise {
+    width: 500px;
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.p_for_practise {
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+    color: black;
+}
+
+.i_for_practise {
+    color: green;
+    font-style: italic;
+}
+
+.ul_for_practise {
+    width: 400px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+ul i {
+    color: red;
+}
+
+p i {
+    color: green;
+}
+
+p b i {
+    color: red;
+}
+
+li b {
+    color:  red;
+}
+
+.odd {
+    color: red;
+}
+
+.eve {
+    color: green;
+}
+
+.eee {
+    color: red;
+}
+
+.xxx {
+    font-size: 30px;
+}
+
+.div_for_red {
+    color: red;
+}
+
+.div_for_green {
+    color: green;
+}
+
+.div_for_blue {
+    color: aqua;
+}
+
+.two_divs_for_red {
+    color: red;
+}
+
+.two_divs_for_green {
+    color: green;
+}
+
+h2.header {
+    font-size: 40px;
+}
+
+h3.header {
+    font-size: 30px;
+}
+
+.eee i {
+    color: red;
+}
+
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: aqua;
+}
+
+#elem h2 {
+    color: blueviolet;
+}
+
+#elem .text1 {
+    color: chocolate;
+}
+
+#elem p.text {
+    color: cyan;
+}
+
+#elem li.text {
+    color: yellow;
+}
+
+.eee.zzz.ccc {
+    color: aquamarine;
+}
